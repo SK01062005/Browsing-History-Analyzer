@@ -1,0 +1,10 @@
+2025-02-19 12:17:48.318632 - Webcam Activated
+2025-02-19 12:20:51 - System Monitoring Stopped
+2025-02-19 12:20:53 - Webcam Activated
+2025-02-19 12:20:55 - Email Error (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2210001ea01sm70313715ad.176 - gsmtp')
+2025-02-19 12:20:58 - System Monitoring Stopped
+2025-02-19 12:21:19 - System Monitoring Stopped
+2025-02-19 12:25:23 - System Monitoring Stopped
+2025-02-19 12:25:39 - Webcam Activated
+2025-02-19 12:25:41 - Email Error (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2fbf999b5b4sm14634134a91.30 - gsmtp')
+2025-02-19 12:25:49 - System Monitoring Stopped
